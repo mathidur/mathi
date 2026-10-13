@@ -1,0 +1,8 @@
+{
+  "name": "juju-pelis",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}
